@@ -1,0 +1,79 @@
+# LabVIEW Files
+*.aliases
+*.lvlps
+*.lvproj.bak
+*.lvproj.lock
+*.lvproj.user
+*.lvlib
+*.lvclass
+*.ctl
+*.ctt
+*.xnode
+*.lvbitx
+*.lvlibp
+*.lvclassp
+*.lvbitx
+*.lvbitx.bak
+
+# Build Output
+Builds/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary Files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# Configuration (if contains sensitive data)
+config.ini
+secrets.json
+.env
+*.key
+*.pem
+
+# Python (if using Python integration)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Data Files (optional - uncomment if you don't want to track data)
+# data/
+# *.csv
+# *.json
+# *.xlsx
+
+# Documentation Build
+docs/_build/
+site/
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
