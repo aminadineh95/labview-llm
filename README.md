@@ -1,6 +1,27 @@
 # LabVIEW LLM Chat Model & Data Pipeline
 
-A comprehensive LabVIEW implementation of an LLM (Large Language Model) chat system with an integrated data processing pipeline for document ingestion, processing, and vector storage.
+<div align="center">
+
+![LabVIEW](https://img.shields.io/badge/LabVIEW-2020%2B-yellow?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTIiIGZpbGw9IiNGRkQ3MDAiLz4KPC9zdmc+)
+![LLM](https://img.shields.io/badge/LLM-Chat%20Model-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
+**🟡 LabVIEW Project** | A comprehensive LabVIEW implementation of an LLM (Large Language Model) chat system with an integrated data processing pipeline for document ingestion, processing, and vector storage.
+
+</div>
+
+## Technology Stack
+
+<div align="left">
+
+🟡 **Primary Language**: LabVIEW  
+🤖 **AI/ML**: LLM Integration, Embeddings, RAG  
+📊 **Data Processing**: Document Parsing, Chunking, Vector Embeddings  
+💾 **Storage**: Vector Databases, Traditional Databases, File Systems  
+☁️ **Connectors**: SharePoint, Cloud Storage, Local File Systems
+
+</div>
 
 ## Overview
 

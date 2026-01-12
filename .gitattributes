@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# LabVIEW Language Detection
+*.vi linguist-language=LabVIEW
+*.lvproj linguist-language=LabVIEW
+*.lvlib linguist-language=LabVIEW
+*.lvclass linguist-language=LabVIEW
+
+# Markdown files
+*.md linguist-detectable=true
+
+# Documentation
+*.md linguist-documentation=true
